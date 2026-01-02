@@ -1,7 +1,7 @@
 # ProjectSCP-SCP3166-v73-hotfix
 Hotfix for ProjectSCP-SCP3166 for v73
 
-This mod is intended to fix the problem when Gorfield didn't change his behaviour. He was always passive due to the lack of updated to this mod. I created a dll that fixes this bug.
+This mod is intended to fix the problem when Gorfield didn't change his behaviour. He was always passive due to the lack of updates to this mod. I created a dll that fixes this bug.
 
 Instruction:
 
